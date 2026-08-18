@@ -13,11 +13,10 @@
 
 ## About me
 
-I am a Computer Science student at the **German Jordanian University**, currently spending an exchange semester at **Fulda University of Applied Sciences** in Germany. I enjoy turning complex ideas into reliable, useful products - from full-stack platforms and automated document workflows to retrieval-augmented AI systems.
+I am a Computer Science student at the **German Jordanian University**, currently spending an exchange semester at **Fulda University of Applied Sciences** in Germany.
 
 - 🎓 Studying Computer Science with a focus on AI, cloud computing, distributed systems, and web technologies
 - 💻 Experienced in building and deploying full-stack applications with **Next.js, React, TypeScript, Node.js, and Python**
-- 🤖 Team lead for **ChatGJU**, a RAG chatbot built on approximately 1,000 indexed university pages and documents
 - 🌍 Based in **Fulda, Germany**
 - 🗣️ Arabic (native), English (C2), German (B1)
 
@@ -53,19 +52,13 @@ I am especially interested in **full-stack development, backend engineering, AI-
 
 | Project | What I built | Technologies |
 | --- | --- | --- |
-| [**ChatGJU Web Interface**](https://github.com/AbdelhamidQ/chatgju_web_interface) | Public web interface for a university RAG assistant. The wider graduation project indexes about 1,000 university pages and documents and uses chunking, embeddings, semantic retrieval, reranking, and metadata filtering. | Next.js, React, Python, vector database, RAG |
-| [**Taqreer Jo**](https://taqreerjo.com/) | A client website designed, built, and launched from scratch; currently live in production. | HTML, CSS, JavaScript |
-| [**RSA Implementation in C++**](https://github.com/AbdelhamidQ/RSA-implentation-in-C-) | RSA key generation, encryption, and decryption for integers and text, with large-number arithmetic. | C++, NTL, GMP, Make |
-| [**Task Manager**](https://github.com/AbdelhamidQ/TaskManager) | Web application with user accounts, task management, completion tracking, and file upload/download. | PHP, MySQL, HTML, CSS |
-| [**File Organizer**](https://github.com/AbdelhamidQ/File-Organizer) | Shell utility that sorts files by type, validates paths, and handles duplicate filenames. | Bash, shell scripting |
+| [**ChatGJU**](https://github.com/ChatGJU/ChatGJU) | full-stack RAG assistant that answers questions about GJU using university web content and curated documents. Built a source-aware, multi-turn retrieval pipeline with data scraping, vector search, multilingual support, response generation, and evaluation tools. | Next.js, TypeScript, FastAPI, Python, Cohere, Zilliz/Milvus, RAG |
 
 ## 💼 Experience highlight
 
 As a **Full-Stack Developer & Operations Support** team member at Laghbani Consulting, I built and deployed a multi-role student-management platform supporting up to **150 students, 10 agencies, and 3 administrators**. I also integrated Stripe, Airtable, Clerk, and Google Drive, and developed a Node.js service that automatically generates personalized documents.
 
 ## 📫 Let's connect
-
-If you are hiring interns in Germany or would like to collaborate on a software or AI project, feel free to reach out:
 
 - [LinkedIn](https://linkedin.com/in/abdelhamidq)
 - [Email](mailto:abalqattan04@gmail.com)
