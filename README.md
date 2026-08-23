@@ -40,9 +40,8 @@ I am a Computer Science student at the **German Jordanian University**, currentl
 
 | Project | What I built | Technologies |
 | --- | --- | --- |
-| [**ChatGJU Web Interface**](https://github.com/AbdelhamidQ/chatgju_web_interface) | Public web interface for a university RAG assistant. The wider graduation project indexes about 1,000 university pages and documents and uses chunking, embeddings, semantic retrieval, reranking, and metadata filtering. | Next.js, React, Python, vector database, RAG |
-| [**Taqreer Jo**](https://taqreerjo.com/) | A client website designed, built, and launched from scratch; currently live in production. | HTML, CSS, JavaScript |
-| [**RSA Implementation in C++**](https://github.com/AbdelhamidQ/RSA-implentation-in-C-) | RSA key generation, encryption, and decryption for integers and text, with large-number arithmetic. | C++, NTL, GMP, Make |
+| [**ChatGJU**](https://github.com/ChatGJU/ChatGJU) | full-stack RAG assistant that answers questions about GJU using university web content and curated documents. Built a source-aware, multi-turn retrieval pipeline with data scraping, vector search, multilingual support, response generation, and evaluation tools. | Next.js, TypeScript, FastAPI, Python, Cohere, Zilliz/Milvus, RAG |
+
 
 ## 💼 Experience highlight
 
