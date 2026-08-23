@@ -2,14 +2,6 @@
 
 <img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/b80a8af0-06a0-4c8e-84e4-8dc250a93ae6" />
 
-# 
-
-[![Website](https://img.shields.io/badge/Personal-Website-success?style=flat-square)](https://abalqattan.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdelhamidq-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelhamidq)
-[![Email](https://img.shields.io/badge/Email-abalqattan04%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abalqattan04@gmail.com)
-
-</div>
-
 ## About me
 
 I am a Computer Science student at the **German Jordanian University**, currently spending an exchange semester at **Fulda University of Applied Sciences** in Germany. I enjoy turning complex ideas into reliable, useful products - from full-stack platforms and automated document workflows to retrieval-augmented AI systems.
