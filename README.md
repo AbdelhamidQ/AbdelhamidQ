@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Abdelhamid Alqattan 👋
+<img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/b80a8af0-06a0-4c8e-84e4-8dc250a93ae6" />
 
-### Computer Science Student · Full-Stack Developer · AI & RAG Enthusiast
+# 
 
 [![Website](https://img.shields.io/badge/Personal-Website-success?style=flat-square)](https://abalqattan.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abdelhamidq-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelhamidq)
