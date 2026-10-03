@@ -6,11 +6,11 @@
 
 ## About me
 
-I am a Computer Science student at the **German Jordanian University**, currently spending an exchange semester at **Fulda University of Applied Sciences** in Germany. I enjoy turning complex ideas into reliable, useful products - from full-stack platforms and automated document workflows to retrieval-augmented AI systems.
+I am a Computer Science student at the **German Jordanian University**, currently spending an exchange semester at **Fulda University of Applied Sciences** in Germany. I enjoy working on hard problems, solving real world problems and enhancing user experince. from full-stack platforms and automated document workflows to retrieval-augmented AI systems.
 
 - 🎓 Studying Computer Science with a focus on AI, cloud computing, distributed systems, and web technologies
 - 💻 Experienced in building and deploying full-stack applications with **Next.js, React, TypeScript, Node.js, and Python**
-- 🤖 Team lead for **ChatGJU**, a RAG chatbot built on approximately 1,000 indexed university pages and documents
+- 🤖 Team lead for **ChatGJU**, a RAG chatbot built on indexed university pages and documents
 - 🌍 Based in **Fulda, Germany**
 - 🗣️ Arabic (native), English (C2), German (B1)
 
@@ -53,9 +53,3 @@ If you are hiring interns in Germany or would like to collaborate on a software 
 
 - [LinkedIn](https://linkedin.com/in/abdelhamidq)
 - [Email](mailto:abalqattan04@gmail.com)
-
-<div align="center">
-
-_Open to internship opportunities across Germany from September 2026._
-
-</div>
