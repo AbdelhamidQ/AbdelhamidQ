@@ -41,6 +41,7 @@ I am a Computer Science student at the **German Jordanian University**, currentl
 | Project | What I built | Technologies |
 | --- | --- | --- |
 | [**ChatGJU**](https://github.com/ChatGJU/ChatGJU) | full-stack RAG assistant that answers questions about GJU using university web content and curated documents. Built a source-aware, multi-turn retrieval pipeline with data scraping, vector search, multilingual support, response generation, and evaluation tools. | Next.js, TypeScript, FastAPI, Python, Cohere, Zilliz/Milvus, RAG |
+| [**VR Submarine EngineRoom**](https://github.com/AbdelhamidQ/VR-Submarine-EngineRoom) | PC VR maintenance game set in a submarine engine room. Built hands-on interactions for refueling, coolant management, pressure control, and pipe repairs, with configurable journey lengths, difficulty, and movement options. | Unreal Engine, Blueprints, OpenXR, VR |
 
 
 ## 💼 Experience highlight
