@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/b80a8af0-06a0-4c8e-84e4-8dc250a93ae6" />
+<img width="2172" height="724" alt="Abdelhamid Alqattan | Computer Science Student and Full-Stack Developer" src="assets/github-banner.png" />
 
 </div>
 
