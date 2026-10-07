@@ -44,9 +44,27 @@ I am a Computer Science student at the **German Jordanian University**, currentl
 | [**VR Submarine EngineRoom**](https://github.com/AbdelhamidQ/VR-Submarine-EngineRoom) | PC VR maintenance game set in a submarine engine room. Built hands-on interactions for refueling, coolant management, pressure control, and pipe repairs, with configurable journey lengths, difficulty, and movement options. | Unreal Engine, Blueprints, OpenXR, VR |
 
 
-## 💼 Experience highlight
+## 💼 Experience Highlight
 
-As a **Full-Stack Developer & Operations Support** team member at Laghbani Consulting, I built and deployed a multi-role student-management platform supporting up to **200 students, 10 agencies, and 3 administrators**. I also integrated Stripe, Airtable, Clerk, and Google Drive, and developed a Node.js service that automatically generates personalized documents.
+As a **Full-Stack Developer at Laghbani Consulting**, I built and deployed a **student management platform** serving students, agencies, and administrators.
+
+My contributions included:
+
+- **Workflow automation:** Automated manual processes that previously took days per student, including generating tailored CVs and Power of Attorney documents.
+- **Dynamic onboarding:** Built a unified onboarding flow that adapts to different student types.
+- **Centralized document management:** Created a single hub for storing and managing student documents.
+- **Unified data:** Established a central database as the single source of truth across the platform.
+- **Multi-role authentication:** Integrated Clerk authentication with role-based access for students, agencies, and administrators.
+- **Centralized payments:** Integrated a centralized payment system with Stripe to manage student payments within the platform.
+- **VPS deployment:** Deployed the platform and automated workflows on a VPS.
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ## 📫 Let's connect
 
