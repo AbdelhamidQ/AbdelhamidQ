@@ -6,7 +6,7 @@
 
 ## About me
 
-I am a Computer Science student at the **German Jordanian University**, currently spending an exchange semester at **Fulda University of Applied Sciences** in Germany. I enjoy working on hard problems, solving real world problems and enhancing user experince. from full-stack platforms and automated document workflows to retrieval-augmented AI systems.
+I am a Computer Science student at the **German Jordanian University**, currently spending an exchange semester at **Fulda University of Applied Sciences** in Germany.
 
 - 🎓 Studying Computer Science with a focus on AI, cloud computing, distributed systems, and web technologies
 - 💻 Experienced in building and deploying full-stack applications with **Next.js, React, TypeScript, Node.js, and Python**
